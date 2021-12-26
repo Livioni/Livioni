@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning cloud workflow shceduling and Learning.
+- 🌱 I’m currently learning cloud workflow scheduling and Learning.
  
 
 
