@@ -1,6 +1,6 @@
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Livioni&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 
 ### Hi there 👋
 
@@ -10,7 +10,7 @@ Expected to pursue a master's degree with Automation School，Beijing Institute 
 
 - 🌱 I’m currently learning cloud workflow scheduling and Reinforcement Learning.
  
-
+<img src="https://github-readme-stats.vercel.app/api?username=Livioni&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 
