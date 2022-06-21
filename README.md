@@ -4,9 +4,10 @@
 
 ### Hi there 👋
 
-I'm currently pursuing the bachelor’s degree with the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT).
+I'm currently pursuing the master's degree with Automation School，Beijing Institute of Technology
 
-Expected to pursue a master's degree with Automation School，Beijing Institute of Technology in September 2022
+Recived B.Eng. Degree from the the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT).
+
 
 - 🌱 I’m currently learning cloud resource management and Reinforcement Learning.
  
