@@ -4,12 +4,12 @@
 
 ### Hi there 👋
 
-I'm currently pursuing the master's degree with Automation School, Beijing Institute of Technology
+I'm currently pursuing the master's degree with Automation School, Beijing Institute of Technology and 
 
-Recived B.Eng. degree from the the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT).
+received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT).
 
 
-- 🌱 I’m currently learning cloud resource management and Reinforcement Learning.
+- 🌱 I’m currently studying cloud resource management and Reinforcement Learning.
  
 <img src="https://github-readme-stats.vercel.app/api?username=Livioni&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
