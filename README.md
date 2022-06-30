@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I'm currently pursuing the master's degree with Automation School, Beijing Institute of Technology and 
+I'm currently pursuing the master's degree with Automation School, Beijing Institute of Technology, and 
 
 received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT).
 
