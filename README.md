@@ -11,9 +11,6 @@
  
 
 
-[![Livion's github activity graph](https://activity-graph.herokuapp.com/graph?username=Livioni&theme=github)](https://github.com/Livioni/github-readme-activity-graph)
-
-<img src="https://github-readme-stats.vercel.app/api?username=Livioni&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livioni&layout=compact)](https://github.com/Livioni/github-readme-stats)
 
 <!--
 **Livioni/Livioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,5 +25,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+[![Livion's github activity graph](https://activity-graph.herokuapp.com/graph?username=Livioni&theme=github)](https://github.com/Livioni/github-readme-activity-graph)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Livioni&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livioni&layout=compact)](https://github.com/Livioni/github-readme-stats)
+
 -->
 
