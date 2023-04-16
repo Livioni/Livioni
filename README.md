@@ -2,15 +2,21 @@
 
 
 
-### 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋
+## 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋
 
-𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐩𝐮𝐫𝐬𝐮𝐢𝐧𝐠 𝐭𝐡𝐞 𝐦𝐚𝐬𝐭𝐞𝐫'𝐬 𝐝𝐞𝐠𝐫𝐞𝐞 𝐰𝐢𝐭𝐡 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐜𝐡𝐨𝐨𝐥, 𝐁𝐞𝐢𝐣𝐢𝐧𝐠 𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐞 𝐨𝐟 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, 𝐚𝐧𝐝  𝐫𝐞𝐜𝐞𝐢𝐯𝐞𝐝 𝐁.𝐄𝐧𝐠. 𝐝𝐞𝐠𝐫𝐞𝐞 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐨𝐟 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲, 𝐁𝐞𝐢𝐣𝐢𝐧𝐠 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐂𝐡𝐞𝐦𝐢𝐜𝐚𝐥 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 (𝐁𝐔𝐂𝐓).
+I’m a post-graduate student at Automation School, Beijing Institute of Technology. Before that, I received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT).  My research interests include Edge Intelligence and Reinforcement Learning.
 
-
-- 🌱 I’m currently studying edge computing and Reinforcement Learning.
  
+## Tech Stacks
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+<!-- ![OpenFaas](https://img.shields.io/badge/OpenFaas-086CD9?style=for-the-badge&logo=openfaas&logoColor=white) -->
+![Pytorch](https://img.shields.io/badge/Pytorch-D3380D?style=for-the-badge&logo=pytorch&logoColor=white)
+![Opencv](https://img.shields.io/badge/Opencv-FE7875?style=for-the-badge&logo=opencv&logoColor=white)
 
+---
+![Visitor Count](https://profile-counter.glitch.me/livioni/count.svg)
 
 <!--
 **Livioni/Livioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
