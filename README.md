@@ -4,7 +4,7 @@
 
 ## 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋
 
-I’m a post-graduate student at Automation School, Beijing Institute of Technology. Before that, I received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT).  My research interests include Edge Intelligence and Reinforcement Learning.
+I’m a post-graduate student at Automation School, Beijing Institute of Technology. Before that, I received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT).  My research interests include Cloud Computing and Reinforcement Learning.
 
  
 ## Tech Stacks
