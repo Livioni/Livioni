@@ -6,6 +6,8 @@
 
 I’m a post-graduate student at [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/). Before that, I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) (BUCT).  As a member of the X-NS Group, I’m supervised by A.P. [Yufeng Zhan](https://ray-zhan.github.io/).  My research interests include Video Analytics System and Vision Transformer.
 
+I am seeking a PhD opportunity (2025 Fall) in Beijing in the fields of Computer Vision or Computer Networks or System or Multimedia or something just like that.   I aim to contribute innovative research and advancements in these dynamic areas.
+
 ## Tech Stacks
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
