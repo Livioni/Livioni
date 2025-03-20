@@ -4,7 +4,7 @@
 
 ## 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋
 
-I’m a post-graduate student at [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/). Before that, I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) (BUCT).  As a member of the X-NS Group, I’m supervised by A.P. [Yufeng Zhan](https://ray-zhan.github.io/).  My research interests include Video Analytics System and Vision Transformer.
+I’m a post-graduate student at [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/). Before that, I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) (BUCT).  As a member of the X-NS Group, I’m supervised by A.P. [Yufeng Zhan](https://ray-zhan.github.io/).  My research interests include Multimedia and Edge Intelligence.
 
 ## Tech Stacks
 
