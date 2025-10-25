@@ -1,10 +1,9 @@
-
-
-
-
 ## 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋
 
-I’m a post-graduate student at [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/). Before that, I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) (BUCT).  As a member of the X-NS Group, I’m supervised by A.P. [Yufeng Zhan](https://ray-zhan.github.io/).  My research interests include Multimedia and Edge Intelligence.
+
+I’m currently a Research Assistant at the [Division of Integrative Systems and Design](https://isd.hkust.edu.hk/), [HKUST](https://hkust.edu.hk/), supervised by [Wenchao XU](https://ray-zhan.github.io/](https://huasion23.github.io/)).
+
+I received an M.Eng. degree from [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/) supervised by A.P. [Yufeng Zhan](https://ray-zhan.github.io/). Before that, I received a B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) (BUCT). My research interests include 3D Vision and Embodied AI.
 
 ## Tech Stacks
 
@@ -15,7 +14,7 @@ I’m a post-graduate student at [Automation School](https://ac.bit.edu.cn/), [B
 ![Opencv](https://img.shields.io/badge/Opencv-FE7875?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/livioni/count.svg)
+
 
 <!--
 **Livioni/Livioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
