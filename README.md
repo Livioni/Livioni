@@ -5,7 +5,9 @@ I’m currently a PhD student at the [Division of Integrative Systems and Design
 
 I received an M.Eng. degree from [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/) supervised by Prof. [Yufeng Zhan](https://ray-zhan.github.io/). 
 
-Before that, I received a B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) (BUCT). My research interests include 3D Vision and Embodied AI.
+Before that, I received a B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) (BUCT). 
+
+My research interests include 3D Vision, Multimedia, and Edge Intelligence.
 
 ---
 
