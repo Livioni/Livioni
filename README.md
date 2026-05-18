@@ -1,13 +1,13 @@
 ## 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋
 
 
-I’m currently a PhD student at the [Division of Integrative Systems and Design](https://isd.hkust.edu.hk/), [HKUST](https://hkust.edu.hk/), supervised by Prof. [Wenchao XU](https://ray-zhan.github.io/](https://huasion23.github.io/)).
+I’m currently a PhD student at the [Division of Integrative Systems and Design](https://isd.hkust.edu.hk/), [HKUST](https://hkust.edu.hk/), supervised by Prof. [Wenchao XU](https://huasion23.github.io/).
 
 I received an M.Eng. degree from [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/) supervised by Prof. [Yufeng Zhan](https://ray-zhan.github.io/). 
 
 Before that, I received a B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) (BUCT). 
 
-My research interests include 3D Vision, Multimedia, and Edge Intelligence.
+My research interests include 3D Vision, Embodied Intelligence, and Edge Intelligence.
 
 ---
 
