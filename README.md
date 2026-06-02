@@ -3,17 +3,21 @@
 
 I’m currently a PhD student at the [Division of Integrative Systems and Design](https://isd.hkust.edu.hk/), [HKUST](https://hkust.edu.hk/), supervised by Prof. [Wenchao XU](https://huasion23.github.io/).
 
-I received an M.Eng. degree from [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/) supervised by Prof. [Yufeng Zhan](https://ray-zhan.github.io/). 
-
-Before that, I received a B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) (BUCT). 
-
 My research interests include 3D Vision, Embodied Intelligence, and Edge Intelligence.
+
+*2026.05.26 🎉🎉* We release a 3D geometry foundation model benchmark with Ropedia and NTU: "*[SpatialBench: Is your spatial foundation model an all-round player?](https://arxiv.org/abs/2605.27367)*", take a look!
+
+*2026.02.22 🎉🎉* The paper “*OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer*” has been accepted in CVPR2026 Highlight.
 
 ---
 
 
 <!--
 **Livioni/Livioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I received an M.Eng. degree from [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/) supervised by Prof. [Yufeng Zhan](https://ray-zhan.github.io/). 
+
+Before that, I received a B.Eng. degree from the College of Information Science and Technology, [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm) (BUCT). 
 
 Here are some ideas to get you started:
 
